@@ -2,7 +2,7 @@
 
   =>  Template Link    : https://htmlcodex.com/freelancer-portfolio-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://htmlcodex.codfm/license (or read the LICENSE.txt file)
 
   =>  Template Author  : HTML Codex
 
